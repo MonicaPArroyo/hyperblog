@@ -1,5 +1,23 @@
-body{
+body
+{
+    color: darkcyan;
     text-align: center;
-    font-family: "Arial";
-    color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 3px solid darkgray;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
