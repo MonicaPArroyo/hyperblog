@@ -1,8 +1,8 @@
 body
 {
-    color: blue;
+    color: darkcyan;
     text-align: center;
-    font-family: Arial;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -30,7 +30,8 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 4px solid firebrick;
+    border-radius: 5px;
     margin: 0 auto;
 }
 
