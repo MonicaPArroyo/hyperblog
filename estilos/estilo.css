@@ -1,6 +1,11 @@
 body
 {
+<<<<<<< HEAD
     color: darkcyan;
+=======
+    background: #1e1f24;
+    color: blue;
+>>>>>>> header
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 16px;
@@ -16,6 +21,11 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -42,4 +52,5 @@ body
 #post
 {
     padding: 1em;
+    background: white;
 }
